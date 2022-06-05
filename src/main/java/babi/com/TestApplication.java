@@ -6,5 +6,9 @@ public class TestApplication {
 		
      System.out.println("Hi");
 	}
+	//bug-11 fix
+	public String message() {
+		return "Good Morning";
+	}
 
 }
